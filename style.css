@@ -1,0 +1,186 @@
+.column1{
+   float: left;
+   margin-top: 1%; 
+}
+.row:after {
+  display: table;
+  clear: both;
+}
+.profile-pic{
+  border-radius: 8px;
+}
+#title{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+ .row{
+  margin-left: 2%;
+  margin-right: 2%; 
+}
+ .column2{
+  background-color:#ec5858;
+  margin-left: 20%;
+  margin-right: -3.8%;
+  margin-top: -24.18%;
+  padding-left: 2%;
+  margin-bottom: 8%;
+} 
+h1{
+   padding-top: 2%;
+  color: #f5f4f4;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 5px;
+  font-weight: bolder;
+}
+h3{
+   color: #f5f4f4;
+   font-family:'Josefin Sans', sans-serif;
+   font-weight: bolder;
+}
+.icon2{
+  color:#ec5858 ;
+  float: left;
+  padding-top: 2%;
+}
+.main{
+   padding-bottom:0.20%; 
+   color: #f5f4f4;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-weight: 10px;
+}
+#Education{
+  margin-left: 2%;
+  margin-right: 5%;
+  margin-bottom: 25%;
+  margin-top: -5%;
+  padding-left: 3%;
+  padding-top: 2%;
+}
+.column4{
+  margin-left: 28%;
+  margin-right:-40.8%;
+  margin-top: -132%;
+  padding-left: 8%;
+  margin-bottom: 8%;
+  padding-top: 2%;
+}
+.lan{
+  padding-left:1%;
+  margin-left: -1%;
+  color:#ec5858;
+}
+.font{
+  color: black;
+  padding-top: 2%;
+}
+.font2{
+  color: black;
+}
+.font1{
+  color: #ec5858;
+  padding-top: 2%;
+}
+.bar-1{
+  width:25%; 
+  height: 10px; 
+  background-color: #ec5858;
+}
+.bar-2{
+  width:20%;
+  height: 10px; 
+  background-color: #ec5858;
+}
+.bar-3{
+  width:15%;
+  height: 10px; 
+  background-color: #ec5858;
+}
+p{
+  text-align:left;
+}
+.lan1{
+  color: #ec5858;
+  padding-top:8%;
+}
+.lan2{
+    color: #ec5858;
+    padding-top: 8%;
+}
+.icons1{
+    color: #ec5858;    
+}
+.fonts{
+  color: black;  
+   padding-left: 4%; 
+  margin-top:  -4%;
+  margin-bottom: -3%;
+}
+.fontChess{
+  color: black;
+   padding-left: 4%; 
+  margin-top:-4%;
+  margin-bottom: -3%;
+}
+.fontrobot{
+  color: black;
+   padding-left: 4%; 
+    margin-top:-4%;
+    margin-bottom: -3%; 
+}
+.fontgame{
+  color: black;
+  padding-left: 4%;
+    margin-top:-4%; 
+}
+ .list{
+  margin-bottom: -2%;
+} 
+#Footer{
+  background-color: #ec5858;
+  margin-top:-23%;
+  margin-right: -2%;
+  padding-top: 8%;
+  width:100%;
+  padding-left: 1%;
+  padding-bottom: 1%;
+}
+.end{
+  font-weight: 600;
+  color:  #f5f4f4;
+  font-family:'Josefin Sans', sans-serif;
+  font-weight: bolder;
+text-align:center;
+margin-top: -10%;
+
+}
+.icon3{
+  color:  #f5f4f4;
+}
+.endfont{
+  padding-left: 2%;
+  margin-top: -2.9%;
+}
+.endfont1{
+  padding-left: 3%;
+  margin-top: -2.9%;
+}
+.icon4{
+  color: #f5f4f4;
+}
+ .fa-linkedin-in{
+color: #f5f4f4;
+} 
+.fa-twitter{
+  color: #f5f4f4;
+  text-align: right;
+  padding-left: 85%;
+  padding-right: 3%;
+}
+.fa-twitter:hover{
+  color:#5eaaa8;
+}
+
+  
+
+
